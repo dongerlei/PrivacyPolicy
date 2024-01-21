@@ -1,6 +1,3 @@
-
----
-
 This application respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with the privacy policy. However, this application will be highly diligent and prudent to treat these information. Except as otherwise stated in this privacy policy, this information will not be disclosed or provided to third parties without your prior permission. This application will update this privacy policy from time to time. When you agree to this application service agreement, it is deemed that you have agreed to all of the contents of this privacy policy. This privacy policy is an integral part of the agreement on the use of this service.
 
 ### Scope of application
